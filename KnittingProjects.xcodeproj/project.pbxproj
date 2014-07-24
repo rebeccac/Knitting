@@ -10,6 +10,8 @@
 		A10D4F82196BADCC00CCAB2F /* YarnConversionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10D4F81196BADCC00CCAB2F /* YarnConversionViewController.swift */; };
 		A144A67E1980C87700191C02 /* CustomNeedleCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A144A67D1980C87700191C02 /* CustomNeedleCell.swift */; };
 		A144A6801980C9C900191C02 /* Needle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A144A67F1980C9C900191C02 /* Needle.swift */; };
+		A144A6821980E93200191C02 /* Wool.swift in Sources */ = {isa = PBXBuildFile; fileRef = A144A6811980E93200191C02 /* Wool.swift */; };
+		A144A6841980E9AB00191C02 /* CustomWoolCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A144A6831980E9AB00191C02 /* CustomWoolCell.swift */; };
 		A150533E196A2CC500BEC759 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A150533D196A2CC500BEC759 /* AppDelegate.swift */; };
 		A1505341196A2CC500BEC759 /* KnittingProjects.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A150533F196A2CC500BEC759 /* KnittingProjects.xcdatamodeld */; };
 		A1505343196A2CC500BEC759 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1505342196A2CC500BEC759 /* ViewController.swift */; };
@@ -37,6 +39,8 @@
 		A10D4F81196BADCC00CCAB2F /* YarnConversionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YarnConversionViewController.swift; sourceTree = "<group>"; };
 		A144A67D1980C87700191C02 /* CustomNeedleCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomNeedleCell.swift; sourceTree = "<group>"; };
 		A144A67F1980C9C900191C02 /* Needle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Needle.swift; sourceTree = "<group>"; };
+		A144A6811980E93200191C02 /* Wool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Wool.swift; sourceTree = "<group>"; };
+		A144A6831980E9AB00191C02 /* CustomWoolCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomWoolCell.swift; sourceTree = "<group>"; };
 		A1505338196A2CC500BEC759 /* KnittingProjects.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KnittingProjects.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A150533C196A2CC500BEC759 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A150533D196A2CC500BEC759 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -97,6 +101,8 @@
 			children = (
 				A144A67D1980C87700191C02 /* CustomNeedleCell.swift */,
 				A144A67F1980C9C900191C02 /* Needle.swift */,
+				A144A6831980E9AB00191C02 /* CustomWoolCell.swift */,
+				A144A6811980E93200191C02 /* Wool.swift */,
 				A150533D196A2CC500BEC759 /* AppDelegate.swift */,
 				A1505342196A2CC500BEC759 /* ViewController.swift */,
 				A150535D196A2D5100BEC759 /* ProjectViewController.swift */,
@@ -245,6 +251,8 @@
 				A150535E196A2D5100BEC759 /* ProjectViewController.swift in Sources */,
 				A1505343196A2CC500BEC759 /* ViewController.swift in Sources */,
 				A150533E196A2CC500BEC759 /* AppDelegate.swift in Sources */,
+				A144A6841980E9AB00191C02 /* CustomWoolCell.swift in Sources */,
+				A144A6821980E93200191C02 /* Wool.swift in Sources */,
 				A1505341196A2CC500BEC759 /* KnittingProjects.xcdatamodeld in Sources */,
 				A194E9E8196D5CDB0095F2F5 /* CounterModel.swift in Sources */,
 				A194E9E6196D2F1D0095F2F5 /* NeedleConversionViewController.swift in Sources */,
