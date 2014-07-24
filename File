@@ -1,0 +1,41 @@
+plus & minus button graphics:
+    orange: #ff8800
+    green: #135975
+    
+    
+    PLUS:
+    
+        x2: 120px x 120px
+            Helvetica Neue, Light, 200pt
+            
+        x1: 60px x 60px
+            Helvetica Neue, Light, 100pt
+            
+    MINUS:
+        
+        x2: 120px x 120px
+            Helvetica Neue, UltraLight, 550pt
+                                        500pt
+            
+        x1: 60px x 60px
+            Helvetica Neue, UltraLight, 275pt    
+                                        250pt
+                                        
+                                        
+    
+    PLUS 3/4:
+    
+        x2: 90px x 90px
+            Helvetica Neue, UltraLight, 150pt
+            
+        x1: 45px x 45px
+            Helvetica Neue, UltraLight, 75pt
+            
+            
+    MINUS 3/4:
+    
+        x2: 90px x 90px
+            Helvetica Neue, UltraLight, 425pt
+            
+        x1: 45px x 45px
+            Helvetica Neue, UltraLight, 187pt
